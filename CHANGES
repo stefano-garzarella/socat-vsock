@@ -1,4 +1,9 @@
 
+New features:
+	Added AF_VSOCK support with VSOCK-CONNECT (VSOCK) and VSOCK-LISTEN
+	(VSOCK-L) addresses.
+	Developed by Stefano Garzarella.
+
 ####################### V 1.7.3.4:
 
 Corrections:
